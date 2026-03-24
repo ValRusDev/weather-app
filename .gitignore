@@ -1,0 +1,32 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.db
+*.sqlite
+
+# EF migrations
+# Migrations/
+
+# Node
+node_modules/
+dist/
+
+# Angular
+.angular/
+.cache/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vs/
+.idea/
+
+# Env
+.env
